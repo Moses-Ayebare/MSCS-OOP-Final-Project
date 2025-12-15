@@ -1,9 +1,5 @@
 # PC Builder: Intelligent PC Component Inventory & Builder
 
-**Author:** Ayebare Moses  
-**Course:** Master of Science in Computer Science  
-**Module:** Object-Oriented Programming (OOP)
-
 ---
 
 ## Project Overview
