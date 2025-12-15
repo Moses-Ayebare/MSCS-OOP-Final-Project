@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Intel Core i9-13900K",
+        "manufacturer": "Intel",
+        "price": 580.0,
+        "category": "CPU",
+        "cores": 24,
+        "clock_speed": 5.8,
+        "socket": "LGA1700",
+        "power_draw": 125
+    },
+    {
+        "name": "AMD Ryzen 7 7800X3D",
+        "manufacturer": "AMD",
+        "price": 449.0,
+        "category": "CPU",
+        "cores": 8,
+        "clock_speed": 5.0,
+        "socket": "AM5",
+        "power_draw": 120
+    },
+    {
+        "name": "ASUS ROG Strix Z790-E",
+        "manufacturer": "ASUS",
+        "price": 499.0,
+        "category": "Motherboard",
+        "socket": "LGA1700",
+        "form_factor": "ATX",
+        "ram_slots": 4,
+        "memory_type": "DDR5",
+        "power_draw": 60
+    },
+    {
+        "name": "MSI MPG B550 Gaming Plus",
+        "manufacturer": "MSI",
+        "price": 159.0,
+        "category": "Motherboard",
+        "socket": "AM4",
+        "form_factor": "ATX",
+        "ram_slots": 4,
+        "memory_type": "DDR4",
+        "power_draw": 50
+    },
+    {
+        "name": "Nvidia RTX 4090",
+        "manufacturer": "Nvidia",
+        "price": 1599.0,
+        "category": "GPU",
+        "vram": 24,
+        "core_clock": 2520.0,
+        "power_draw": 450
+    },
+    {
+        "name": "Nvidia RTX 3060",
+        "manufacturer": "Nvidia",
+        "price": 329.0,
+        "category": "GPU",
+        "vram": 12,
+        "core_clock": 1777.0,
+        "power_draw": 170
+    },
+    {
+        "name": "Corsair Vengeance 32GB Kit",
+        "manufacturer": "Corsair",
+        "price": 149.0,
+        "category": "RAM",
+        "size": 32,
+        "speed": 6000,
+        "type": "DDR5",
+        "power_draw": 15
+    },
+    {
+        "name": "G.Skill Ripjaws V 16GB",
+        "manufacturer": "G.Skill",
+        "price": 49.0,
+        "category": "RAM",
+        "size": 16,
+        "speed": 3200,
+        "type": "DDR4",
+        "power_draw": 10
+    },
+    {
+        "name": "Corsair RM850x",
+        "manufacturer": "Corsair",
+        "price": 129.0,
+        "category": "PSU",
+        "wattage": 850,
+        "rating": "80+ Gold"
+    },
+    {
+        "name": "EVGA 500 W1",
+        "manufacturer": "EVGA",
+        "price": 49.0,
+        "category": "PSU",
+        "wattage": 500,
+        "rating": "80+ White"
+    },
+    {
+        "name": "Samsung 980 Pro 1TB",
+        "manufacturer": "Samsung",
+        "price": 89.0,
+        "category": "Storage",
+        "capacity": 1000,
+        "type": "SSD",
+        "power_draw": 5
+    }
+]
