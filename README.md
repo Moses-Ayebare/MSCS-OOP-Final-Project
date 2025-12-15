@@ -48,7 +48,7 @@ The system performs real-time logic checks on your build:
 pip install prettytable customtkinter
 ````
 2.  **File Structure**
-    ```text
+````bash
 PCBuilder/
 ├── data/
 │   └── inventory.json       # The database file (Auto-generated/Loaded)
@@ -61,7 +61,7 @@ PCBuilder/
 ├── gui.py                   # View B: Graphical User Interface
 ├── test_scenarios.py        # Automated Unit Tests
 └── README.md                # Project Documentation
-    ```
+````
 
 ## How to Use the System
 
